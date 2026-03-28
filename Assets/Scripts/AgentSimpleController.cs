@@ -17,4 +17,6 @@ public class AgentSimpleController : MonoBehaviour
             agent.SetDestination(Target.position);
         }
     }
+  
+
 }
